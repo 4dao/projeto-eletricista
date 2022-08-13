@@ -100,6 +100,7 @@ body{
     border-radius: 15px;
     box-shadow: 0 1px 10px rgb(180, 180, 180);
     cursor: pointer;
+    margin-bottom:20px;
 }
 .sect-left button:hover{
     box-shadow: 0 3px 20px rgb(180, 180, 180);
